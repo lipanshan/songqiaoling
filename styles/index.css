@@ -1,0 +1,35 @@
+.public{
+    width:200px;
+    height:30px;
+    line-height:30px;
+    border:#dcdcdc 1px solid;
+    border-radius:2px;
+    padding-left: 8px;
+    -moz-appearance: none;
+    font: 16px "Microsoft YaHei",arial,sans-serif;
+}
+input[type="button"]{
+    width:100px;
+    height:30px;
+    line-height:30px;
+    background:#333;
+    color:#fff;
+    border:none;
+    border-radius:3px;
+}
+input.xuanz{
+    background:#09F;
+}
+
+.authorWidth{
+    width: 300px;
+    height: 432px;
+    border:#dcdcdc 1px solid;;
+}
+.oneMenuColor{
+    background-color: #f4f7fc;
+}
+.authorBtn{
+    margin-left: 103px;
+    margin-top: 30px;
+}
